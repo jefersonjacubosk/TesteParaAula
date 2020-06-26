@@ -1,0 +1,21 @@
+{
+  "name": "TesteParaAula",
+  "version": "1.0.0",
+  "description": "Esse é um teste para Aula",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefersonjacubosk/TesteParaAula.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefersonjacubosk/TesteParaAula/issues"
+  },
+  "homepage": "https://github.com/jefersonjacubosk/TesteParaAula#readme"
+}
