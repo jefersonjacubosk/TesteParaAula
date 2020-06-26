@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/jefersonjacubosk/TesteParaAula/issues"
   },
-  "homepage": "https://github.com/jefersonjacubosk/TesteParaAula#readme"
+  "homepage": "https://github.com/jefersonjacubosk/TesteParaAula#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.1"
+  }
 }
